@@ -6,28 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7725beb5-fc41-4426-b7b9-309ec1dfe062" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.2.6.2/Bytedance-UnionAD-Dynamic.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.2.6.2/Bytedance-UnionAD-Dynamic.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.3.0.4/Bytedance-UnionAD-Dynamic.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.3.0.4/Bytedance-UnionAD-Dynamic.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.3.0.5/Bytedance-UnionAD-Dynamic.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.3.0.5/Bytedance-UnionAD-Dynamic.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.3.1.5/Bytedance-UnionAD-Dynamic.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD-Dynamic/3.3.1.5/Bytedance-UnionAD-Dynamic.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD/3.2.6.2/Bytedance-UnionAD.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD/3.2.6.2/Bytedance-UnionAD.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD/3.3.0.4/Bytedance-UnionAD.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD/3.3.0.4/Bytedance-UnionAD.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD/3.3.0.5/Bytedance-UnionAD.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD/3.3.0.5/Bytedance-UnionAD.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bytedance-UnionAD/3.3.1.5/Bytedance-UnionAD.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/Bytedance-UnionAD/3.3.1.5/Bytedance-UnionAD.podspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GDTMobSDK-Dynamic/4.11.11/GDTMobSDK-Dynamic.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/GDTMobSDK-Dynamic/4.11.11/GDTMobSDK-Dynamic.podspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GDTMobSDK-Dynamic/4.11.12/GDTMobSDK-Dynamic.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/GDTMobSDK-Dynamic/4.11.12/GDTMobSDK-Dynamic.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KSAdSDKFull/3.3.7/KSAdSDKFull.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/KSAdSDKFull/3.3.7/KSAdSDKFull.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobADSDK/2.1.0/MobADSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobADSDK/2.1.0/MobADSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobADSDK/2.1.1/MobADSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobADSDK/2.1.1/MobADSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobADSDK/2.1.3/MobADSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobADSDK/2.1.3/MobADSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobADSDK/2.2.0/MobADSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobADSDK/2.2.0/MobADSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobADSDK/2.2.1/MobADSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobADSDK/2.2.1/MobADSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobGameSDK/1.0.3/MobGameSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobGameSDK/1.0.3/MobGameSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobNewsSDK/2.1.0/MobNewsSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobNewsSDK/2.1.0/MobNewsSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobNewsSDK/2.2.0/MobNewsSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobNewsSDK/2.2.0/MobNewsSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobVideoSDK/2.1.0/MobVideoSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobVideoSDK/2.1.0/MobVideoSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobVideoSDK/2.2.0/MobVideoSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobVideoSDK/2.2.0/MobVideoSDK.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobVideoSDK/2.2.1/MobVideoSDK.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MobVideoSDK/2.2.1/MobVideoSDK.podspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606355677395</updated>
-      <workItem from="1606355678499" duration="1240000" />
+      <workItem from="1606355678499" duration="1763000" />
     </task>
     <servers />
   </component>

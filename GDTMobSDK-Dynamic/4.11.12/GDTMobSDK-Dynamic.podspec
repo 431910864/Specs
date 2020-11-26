@@ -30,6 +30,6 @@ Pod::Spec.new do |s|
   #s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
 
   s.vendored_frameworks = 'GDTMobSDK/Frameworks/GDTMobSDK.framework'
-  valid_archs = ['armv7', 'arm64', 'x86_64']
+  valid_archs = ['armv7', 'armv7s', 'x86_64', 'arm64']
 end
 
