@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'http://e.qq.com/dev/index.html'
   s.source           = { :git => 'https://gitee.com/mobad/GDTMobSDK-Dynamic.git', :tag => s.version.to_s }
-  s.platform     = :ios, "9.0"  
+  s.platform     = :ios, "9.0"
   s.frameworks = 'StoreKit', 'Security', 'CoreTelephony', 'AdSupport', 'CoreLocation', 'QuartzCore', 'SystemConfiguration', 'AVFoundation'
   s.weak_framework = 'WebKit'
   s.libraries = 'z', 'xml2'
@@ -30,6 +30,6 @@ Pod::Spec.new do |s|
   #s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
 
   s.vendored_frameworks = 'GDTMobSDK/Frameworks/GDTMobSDK.framework'
-  valid_archs = ['armv7', 'arm64']
+  valid_archs = ['armv7', 'arm64', 'x86_64']
 end
 
