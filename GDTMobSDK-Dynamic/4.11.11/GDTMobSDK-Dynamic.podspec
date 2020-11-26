@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.author           = { 'royqpwang' => 'royqpwang@tencent.com' }
 
   s.homepage         = 'http://e.qq.com/dev/index.html'
-  s.source           = { :git => 'https://gitee.com/mobad/GDTMobSDK-Dynamic.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/431910864/GDTMobSDK-Dynamic.git', :tag => s.version.to_s }
   s.platform     = :ios, "9.0"
   s.frameworks = 'StoreKit', 'Security', 'CoreTelephony', 'AdSupport', 'CoreLocation', 'QuartzCore', 'SystemConfiguration', 'AVFoundation'
   s.weak_framework = 'WebKit'

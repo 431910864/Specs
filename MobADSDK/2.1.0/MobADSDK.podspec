@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
                        DESC
 
   s.author           = { 'ad' => 'ad@ad.com' }
-  s.homepage         = 'https://gitee.com/mobad/MobADSDK'
-  s.source           = { :git => 'https://gitee.com/mobad/MobADSDK.git', :tag => s.version.to_s }
-  s.platform         = :ios, "9.0"  
+  s.homepage         = 'https://github.com/431910864/MobADSDK'
+  s.source           = { :git => 'https://github.com/431910864/MobADSDK.git', :tag => s.version.to_s }
+  s.platform         = :ios, "9.0"
 
   s.vendored_frameworks = 'MobADSDK/Frameworks/MobADSDK.framework'
   valid_archs = ['armv7', 'arm64', 'i386', 'x86_64']

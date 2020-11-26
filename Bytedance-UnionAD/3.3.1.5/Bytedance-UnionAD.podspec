@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
   s.author           = { 'Siwant' => 'yuanhuan@bytedance.com' }
 
   s.homepage         = 'https://github.com/bytedance/Bytedance-UnionAD'
-  s.source           = { :git => 'https://gitee.com/mobad/Bytedance-UnionAD.git', :tag => s.version.to_s }
-  s.platform     = :ios, "9.0"  
+  s.source           = { :git => 'https://github.com/431910864/Bytedance-UnionAD.git', :tag => s.version.to_s }
+  s.platform     = :ios, "9.0"
   s.frameworks = 'UIKit', 'MapKit', 'WebKit', 'MediaPlayer', 'CoreLocation', 'AdSupport', 'CoreMedia', 'AVFoundation', 'CoreTelephony', 'StoreKit', 'SystemConfiguration', 'MobileCoreServices', 'CoreMotion', 'Accelerate'
   s.libraries = 'c++', 'resolv', 'z', 'sqlite3', 'bz2', 'xml2', 'c++abi'
 

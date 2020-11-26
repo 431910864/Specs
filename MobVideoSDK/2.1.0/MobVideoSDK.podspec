@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
                        DESC
 
   s.author           = { 'ad' => 'ad@ad.com' }
-  s.homepage         = 'https://gitee.com/mobad/MobVideoSDK'
-  s.source           = { :git => 'https://gitee.com/mobad/MobVideoSDK.git', :tag => s.version.to_s }
+  s.homepage         = 'https://github.com/431910864/MobVideoSDK'
+  s.source           = { :git => 'https://github.com/431910864/MobVideoSDK.git', :tag => s.version.to_s }
   s.platform         = :ios, "9.0"
 
   s.vendored_frameworks = 'MobVideoSDK/Frameworks/MobVideoSDK.framework'

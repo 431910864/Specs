@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
                        DESC
 
   s.author           = { 'ad' => 'ad@ad.com' }
-  s.homepage         = 'https://gitee.com/mobad/MobNewsSDK'
-  s.source           = { :git => 'https://gitee.com/mobad/MobNewsSDK.git', :tag => s.version.to_s }
-  s.platform         = :ios, "9.0"  
+  s.homepage         = 'https://github.com/431910864/MobNewsSDK'
+  s.source           = { :git => 'https://github.com/431910864/MobNewsSDK.git', :tag => s.version.to_s }
+  s.platform         = :ios, "9.0"
 
   s.vendored_frameworks = 'MobNewsSDK/Frameworks/MobNewsSDK.framework'
   s.resource = 'MobNewsSDK/Frameworks/MobNewsSDKBundle.bundle'

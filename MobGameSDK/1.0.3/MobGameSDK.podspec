@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
                        DESC
 
   s.author           = { 'ad' => 'ad@ad.com' }
-  s.homepage         = 'https://gitee.com/mobad/MobGameSDK'
-  s.source           = { :git => 'https://gitee.com/mobad/MobGameSDK.git', :tag => s.version.to_s }
-  s.platform         = :ios, "9.0"  
+  s.homepage         = 'https://github.com/431910864/MobGameSDK'
+  s.source           = { :git => 'https://github.com/431910864/MobGameSDK.git', :tag => s.version.to_s }
+  s.platform         = :ios, "9.0"
 
   s.vendored_frameworks = 'MobGameSDK/Frameworks/MobGameSDK.framework'
   s.resources = ['MobGameSDK/Frameworks/MobGameSDKBundle.bundle', 'MobGameSDK/Frameworks/DyAdSdk.bundle']
